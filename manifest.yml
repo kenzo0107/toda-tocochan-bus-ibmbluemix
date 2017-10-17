@@ -1,0 +1,5 @@
+applications:
+- name: toda-tocochan-bus
+  memory: 256M
+  routes:
+  - route: toda-tocochan-bus.mybluemix.net
